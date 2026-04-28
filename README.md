@@ -7,6 +7,11 @@ The analysis examines borrower demographics, income stress, credit history, hous
 
 ---
 
+## 🖼️ Dashboard Preview
+![Dashboard Preview](preview.png)
+
+---
+
 ## 🏦 Sector
 **Financial Analytics / Credit Risk Modeling**
 
